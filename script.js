@@ -7,8 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
     function con() {
       var wordReplacements = {
-        "gaza":"g_A_za",
-        ""
+        "gaza":"g_A_za"
       };
   
       var inputText = text.value;
